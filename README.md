@@ -4,4 +4,4 @@
  ## npm install
  
  # Run the script to start project
- ## node index
+ ## node index.js
